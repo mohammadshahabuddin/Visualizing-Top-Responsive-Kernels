@@ -1,6 +1,6 @@
 # Visualizing-Top-Responsive-Kernels in CNNs
 
-This repository provides a Python-based framework to visualize the most responsive filters in Convolutional Neural Networks (CNNs). By leveraging feature map activations and overlaying them onto original input images, the project offers an intuitive way to interpret CNN behavior and identify patterns learned by the model.
+This repository provides a Python-based framework to visualize the most responsive kernels in Convolutional Neural Networks (CNNs). By leveraging feature map activations and overlaying them onto original input images, the project offers an intuitive way to interpret CNN behavior and identify patterns learned by the model.
 
 # Key Features
 Extract and visualize feature maps from specific layers of a CNN.
