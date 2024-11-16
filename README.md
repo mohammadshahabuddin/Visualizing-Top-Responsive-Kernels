@@ -13,7 +13,7 @@ Easy-to-use script with configurable parameters for model and layer selection.
 
 
 # How It Works
-Load a pre-trained or custom CNN model. (A pre-trained ResNet18 model trained on CIFAR-10 is provided for convenience. Download it here.
+Load a pre-trained or custom CNN model. (A pre-trained ResNet18 model trained on CIFAR-10 is provided for convenience. Download it here:https://drive.google.com/file/d/1X0tetwb0iWWRknRwPCl-z3eTBJswfzrU/view?usp=sharing
 
 Specify the layer of interest for visualization.
 
